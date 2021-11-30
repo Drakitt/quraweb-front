@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Drakitt/quraweb-front#readme",
   "devDependencies": {
     "open": "^8.4.0"
+  },
+  "dependencies": {
+    "open-cli": "^7.0.1"
   }
 }
