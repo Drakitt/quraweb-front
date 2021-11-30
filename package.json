@@ -4,7 +4,8 @@
   "description": "frontend static",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "open-cli index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Drakitt/quraweb-front/issues"
   },
-  "homepage": "https://github.com/Drakitt/quraweb-front#readme"
+  "homepage": "https://github.com/Drakitt/quraweb-front#readme",
+  "devDependencies": {
+    "open": "^8.4.0"
+  }
 }
