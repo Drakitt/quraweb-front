@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "open-cli index.html"
+    "build": "open-cli dist/index.html"
   },
   "repository": {
     "type": "git",
