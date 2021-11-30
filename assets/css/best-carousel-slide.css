@@ -1,0 +1,79 @@
+.img-fluid.card-img-top.w-100.d-block {
+  object-fit: cover;
+}
+
+.img-fluid.align-items-xl-center.img {
+  object-fit: cover;
+  object-position: right top;
+}
+
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  min-height: 90vh;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../../assets/img/Portadas/Portada1.jpg');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../assets/img/Portadas/Portada2.jpg');
+  background-position: center;
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../assets/img/Portadas/Portada3.jpg');
+  background-position: center;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+  font-size: 5vw;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+  font-size: 2vw;
+}
+
+.plat {
+  border-radius: 0px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  border-color: #016090;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
+
+* {
+  /*box-sizing: inherit;*/
+}
+
+*:before, *:after {
+  box-sizing: inherit;
+}
+
+span {
+  font-style: inherit;
+  font-weight: inherit;
+}
+

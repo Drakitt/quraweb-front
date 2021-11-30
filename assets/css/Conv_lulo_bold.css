@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Conv_lulo_bold';
+	src: url(../../assets/fonts/lulo_bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/lulo_bold.woff) format('woff'),
+	url(../../assets/fonts/lulo_bold.ttf) format('truetype'),
+	url(../../assets/fonts/lulo_bold.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
