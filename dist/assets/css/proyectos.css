@@ -4,8 +4,8 @@ span {
 }
 
 a:active {
-  background: #c6dab3;
-  border-color: #c6dab3;
+  background: rgba(198,218,179,0);
+  border-color: rgba(198,218,179,0);
   color: var(--blue);
 }
 
@@ -114,7 +114,7 @@ a {
 }
 
 .dh-header-non-rectangular-container h1, p {
-  color: white;
+  /*color: white;*/
   font-weight: bold;
 }
 

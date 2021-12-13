@@ -14,18 +14,18 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 .fixed-bottom {
   position: fixed;
-  right: 0;
+  right: initial;
   bottom: 3%;
   left: 0;
   z-index: 1030;
 }
 
 * {
-  /*box-sizing: inherit;*/
+  box-sizing: inherit;
 }
 
 *:before, *:after {
-  /*box-sizing: inherit;*/
+  box-sizing: inherit;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {

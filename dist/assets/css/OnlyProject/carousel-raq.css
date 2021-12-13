@@ -28,3 +28,11 @@ image-product {
   box-sizing: border-box;
 }
 
+.card.text-center.product-card {
+  box-shadow: none;
+}
+
+.pagination {
+  display: flex!important;
+}
+
